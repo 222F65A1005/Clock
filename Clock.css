@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    background-image: url(./op.webp);
+    background-image: url(op.jpeg);
     background-position: 0 300px 0 300px ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,6 +69,7 @@ body{
 .number10{top: 80px;left: 50px;}
 .number11{top: 45px;left: 85px;}
 .number12{top: 22px;left: 150px;}
+
 
 
 
