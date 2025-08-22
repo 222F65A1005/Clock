@@ -57,8 +57,8 @@ body{
     transform: translate(-50% , -50%);
 }
 
-.number1{top: 45px;left: 215px; color: chartreuse;}
-.number2{top: 80px;left: 250px; color: burlywood;}
+.number1{top: 45px;left: 215px; }
+.number2{top: 80px;left: 250px; }
 .number3{top: 145px;left: 272px; }
 .number4{top: 215px;left: 250px;}
 .number5{top: 255px;left: 215px;}
@@ -69,5 +69,6 @@ body{
 .number10{top: 80px;left: 50px;}
 .number11{top: 45px;left: 85px;}
 .number12{top: 22px;left: 150px;}
+
 
 
